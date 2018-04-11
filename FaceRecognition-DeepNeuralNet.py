@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Mar 15 18:22:59 2017
-@author: Gulshan Madhwani, Ritesh Tawde
+@author: Ritesh Tawde
 @version: Python 3.5
 """
 
